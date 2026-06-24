@@ -40,14 +40,9 @@ Relasi tabel yang digunakan:
 * supplier
 
 ### 📸 Screenshot Relasi Database
+![Relasi Database](images/db-relasi.png) 
+ 
 
-Tambahkan gambar:
-
-```text
-images/db-relasi.png
-```
-
----
 
 # 🔐 Uji Coba Proteksi API (401 Unauthorized)
 
@@ -59,55 +54,49 @@ Skenario pengujian:
 * Request tanpa Authorization Bearer Token → akses ditolak
 * Server mengembalikan status **401 Unauthorized**
 
-###![Tampilan Error 401 saat akses tanpa token](images/Error_401.png) 
+# Tampilan eror 401
+![Error 401](images/Error%20401.png)
 
-Tambahkan gambar:
 
-```text
-images/error401-postman.png
-```
 
----
+
+# Tampilan saat menggunakan token :
+![Menggunakan Token](images/Menggunakan%20token.png) 
+
+---      
 
 # 💻 Tampilan Aplikasi
 
-## Halaman Login
+## Halaman Login !
 
-Tambahkan gambar:
+![Halaman Login](images/Halaman%20login.png)
 
-```text
-images/login.png
-```
+
 
 ---
 
 ## Dashboard Administrator
 
-Tambahkan gambar:
-
-```text
-images/dashboard.png
-```
+![Menu Dashboard](images/Menu%20Dasboard.png)
 
 ---
 
 ## Form Tambah / Edit Data (Modal)
 
-Tambahkan gambar:
-
-```text
-images/modal-tambah-edit.png
-```
+![Modal Tambah Edit](images/Modal-Tambah%20-%20edit.png)
 
 ---
 
 ## Tabel Data Inventaris
 
-Tambahkan gambar:
+![Tabel Data Barang](images/tabel%20data%20barang.png)
 
-```text
-images/tabel-data.png
-```
+# Data Kategori
+![Halaman Kategori](images/halaman%20kategori.png)
+---
+
+# Data Supplier
+![Halaman Supplier](images/halaman%20supplier.png)
 
 ---
 
