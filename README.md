@@ -59,7 +59,7 @@ Skenario pengujian:
 * Request tanpa Authorization Bearer Token → akses ditolak
 * Server mengembalikan status **401 Unauthorized**
 
-### 📸 Screenshot Error 401
+###![Tampilan Error 401 saat akses tanpa token](images/Error_401.png) 
 
 Tambahkan gambar:
 
