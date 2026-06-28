@@ -105,7 +105,7 @@ Skenario pengujian:
 ## 1. Clone Repository
 
 ```bash
-git clone [LINK_REPOSITORY]
+git clone [(https://github.com/wahyupahrudin/UAS_Web2_312410058_Wahyupahrudin.git)]
 ```
 
 ---
@@ -235,7 +235,7 @@ UAS_Web2_312410058_Wahyupahrudin
 
 Link YouTube:
 
-(Tambahkan link video presentasi)
+(https://youtu.be/PE78AqBUJAM?si=1M1PupGJ5ncZUoHD )
 
 ---
 
